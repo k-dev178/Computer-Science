@@ -8,11 +8,16 @@
 
 * 1주차_Algorithms 소개
   * [1차시_OT_및_소개](알고리즘/01-01_OT_및_소개.md)
+
+> 📚 참고도서
+> [Foundations of Algorithms (영문)](https://product.kyobobook.co.kr/detail/S000003153606)  
+> [알고리즘 기초 (국문)](https://product.kyobobook.co.kr/detail/S000001732184)  
 ---
 # 📊 PS (Problem Solving)
 
 * 🛠 기법
   * [비트마스킹](PS/기법/비트마스킹.md)
+
 
 
 
